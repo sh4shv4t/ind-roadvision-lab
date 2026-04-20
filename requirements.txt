@@ -1,0 +1,14 @@
+torch
+torchvision
+timm
+torch-geometric
+scikit-image
+scikit-learn
+matplotlib
+seaborn
+numpy
+pandas
+pyyaml
+jupyter
+tqdm
+opencv-python

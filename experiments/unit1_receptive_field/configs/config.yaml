@@ -1,0 +1,11 @@
+# Unit I configuration placeholder
+# experiment_name: ~
+# seed: ~
+# model_names: ~
+# pattern_scales: ~
+# gradient_method: ~
+# input_size: ~
+# batch_size: ~
+# num_workers: ~
+# confidence_threshold: ~
+# iou_threshold: ~

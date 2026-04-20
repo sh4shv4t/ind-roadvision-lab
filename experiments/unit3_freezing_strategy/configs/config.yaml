@@ -1,0 +1,11 @@
+# Unit III configuration placeholder
+# experiment_name: ~
+# seed: ~
+# pretrained_source: ~
+# freeze_strategies: ~
+# epochs: ~
+# learning_rate: ~
+# weight_decay: ~
+# scheduler: ~
+# warmup_epochs: ~
+# early_stopping_patience: ~
