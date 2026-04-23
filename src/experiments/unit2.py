@@ -1,4 +1,4 @@
-"""Unit II orchestration stubs for GCN versus CNN on superpixel graphs."""
+"""Unit II orchestration stubs for Siamese / embedding sensitivity analysis (Problem 7)."""
 
 from typing import Any
 

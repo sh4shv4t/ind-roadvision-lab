@@ -1,0 +1,12 @@
+# Unit II — Siamese sensitivity (notebook-driven; optional local paths)
+dataset:
+  root: ""  # e.g. /content/drive/MyDrive/.../yolo_dataset
+  image_subdir: "images"
+  label_subdir: "labels"
+model:
+  backbone: "resnet50"
+  embedding_dim: 2048
+experiment:
+  batch_size: 32
+  num_workers: 2
+  seed: 42

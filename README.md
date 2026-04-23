@@ -1,6 +1,6 @@
 # ind-roadvision-labs
 
-This repository is a template for a Deep Learning for Computer Vision (DLCV) research project focused on Indian road obstacle detection. The project studies detection behavior across five road-obstacle classes using YOLO-style bounding-box annotations and approximately 200 images per class, then compares model behavior across three targeted experiments on receptive fields, graph-based irregular structures, and transfer-learning freezing strategies.
+This repository is a template for a Deep Learning for Computer Vision (DLCV) research project focused on Indian road obstacle detection. The project studies detection behavior across five road-obstacle classes using YOLO-style bounding-box annotations and approximately 200 images per class, then compares model behavior across three targeted experiments on receptive fields, Siamese embedding sensitivity under corruptions, and transfer-learning freezing strategies.
 
 ## Dataset Classes
 
@@ -15,7 +15,7 @@ This repository is a template for a Deep Learning for Computer Vision (DLCV) res
 ## Experiment Tracks
 
 - [Unit I - Receptive Field Archaeology](experiments/unit1_receptive_field/README.md)
-- [Unit II - GCN Superpixels](experiments/unit2_gcn_superpixels/README.md)
+- [Unit II - Problem 7: Siamese Sensitivity](experiments/unit2_siamese_sensitivity/README.md)
 - [Unit III - Freezing Strategy](experiments/unit3_freezing_strategy/README.md)
 
 ## Setup Instructions
